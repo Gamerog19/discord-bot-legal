@@ -8,5 +8,5 @@ By using this Discord bot, you agree to the following:
 - The bot owner reserves the right to ban users from using the bot at any time.
 - The bot is provided "as-is" with no warranty.
 
-If you have any questions, contact us at [your-email@example.com].
+If you have any questions, contact us at gamerog191@gmail.com.
 
